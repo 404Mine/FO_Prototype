@@ -6,8 +6,7 @@
 #include <conio.h>
 #include <iomanip.h>
 
-main()
-{
+main(){
 	
 	clrscr();
 	
